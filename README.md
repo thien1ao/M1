@@ -9,12 +9,9 @@ data/
 └── ...
 ```
 
-## Setup
+## Usage
 
 ```bash
 conda activate <your-env>
 pip install -r requirements.txt
 ```
-## Output
-
-`Images/seq<SEQ>_part<N>.png`
