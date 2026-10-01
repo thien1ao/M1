@@ -9,8 +9,6 @@ data/
 └── ...
 ```
 
-- one file ≈ one day, ~86 M rows
-
 ## Setup
 
 ```bash
