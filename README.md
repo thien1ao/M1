@@ -20,11 +20,3 @@ data/
 ```bash
 conda activate <your-env>
 pip install -r requirements.txt
-```
-<<<<<<< HEAD
-=======
-## Output
-
-`Images/seq<SEQ>_part<N>.png`
-
->>>>>>> 9ba3bb1 (edit README)
