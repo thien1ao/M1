@@ -9,9 +9,22 @@ data/
 └── ...
 ```
 
+<<<<<<< HEAD
 ## Usage
+=======
+- one file ≈ one day, ~86 M rows
+
+## Setup
+>>>>>>> 9ba3bb1 (edit README)
 
 ```bash
 conda activate <your-env>
 pip install -r requirements.txt
 ```
+<<<<<<< HEAD
+=======
+## Output
+
+`Images/seq<SEQ>_part<N>.png`
+
+>>>>>>> 9ba3bb1 (edit README)
