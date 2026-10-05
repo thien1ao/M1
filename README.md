@@ -9,13 +9,11 @@ data/
 └── ...
 ```
 
-<<<<<<< HEAD
 ## Usage
 =======
 - one file ≈ one day, ~86 M rows
 
 ## Setup
->>>>>>> 9ba3bb1 (edit README)
 
 ```bash
 conda activate <your-env>
